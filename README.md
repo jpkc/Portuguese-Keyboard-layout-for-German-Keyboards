@@ -27,7 +27,7 @@ _In Europe it's not a good idea to write **ç** accenting c (**`´`** + **`c`**)
 	* **diaeresis (¨):** typing **`AltGr`** + **`ü`** followed by a letter.
 
 ## Window$ users
-Simply unzip the [`de-br-layout.zip`](https://github.com/jpkc/Portuguese-Keyboard-layout-for-German-Keyboards/blob/master/windows/de-br-layout.zip) file and install it by running `setup.exe`. This file was created with the [Microsoft Keyboard Layout Creator (MSKLC) Version 1.4](https://www.microsoft.com/en-us/download/details.aspx?id=102134).
+Simply unzip the [`de-br-layout.zip`](https://github.com/jpkc/Portuguese-Keyboard-layout-for-German-Keyboards/raw/refs/heads/master/windows/de-br-layout.zip) file and install it by running `setup.exe`. This file was created with the [Microsoft Keyboard Layout Creator (MSKLC) Version 1.4](https://www.microsoft.com/en-us/download/details.aspx?id=102134).
 
 ## linux users
 1. Run `install.sh`. It will copy the files `symbols/de` and `rules/evdev.xml` in folder `/usr/share/X11/xkb/`. You will need either admin rights or `sudo`.
@@ -72,7 +72,7 @@ _Na europa não é uma boa idéia escrever ç com **`´`** + **`c`** como estamo
 	* **trema (¨):** Digitando **`AltGr`** + **`ü`** e depois a letra.
 
 ## Usuários de Window$
-Basta descompatar o arquivo [`de-br-layout.zip`](https://github.com/jpkc/Portuguese-Keyboard-layout-for-German-Keyboards/blob/master/windows/de-br-layout.zip) e instalar executando o `setup.exe`. Esse arquivo foi criado com o [Microsoft Keyboard Layout Creator (MSKLC) Version 1.4](https://www.microsoft.com/en-us/download/details.aspx?id=102134).
+Basta descompatar o arquivo [`de-br-layout.zip`](https://github.com/jpkc/Portuguese-Keyboard-layout-for-German-Keyboards/raw/refs/heads/master/windows/de-br-layout.zip) e instalar executando o `setup.exe`. Esse arquivo foi criado com o [Microsoft Keyboard Layout Creator (MSKLC) Version 1.4](https://www.microsoft.com/en-us/download/details.aspx?id=102134).
 
 ## Usuários de linux
 1. Execute `install.sh`. Ele copiará os arquivos `symbols/de` e `rules/evdev.xml` na pasta `/usr/share/X11/xkb/`. Você precisará de privilégios administrativos ou terá que usar `sudo`.
@@ -117,7 +117,7 @@ _In Europa ist es keine gute Idee, **ç** mit gravis c zu schreiben (**`´`** + 
 	* **trema (¨):** tippen **`AltGr`** +**`ü`** Gefolgt von einem Brief.
 
 ## Window$-Benutzer
-Entpacken Sie einfach die Datei [`de-br-layout.zip`](https://github.com/jpkc/Portuguese-Keyboard-layout-for-German-Keyboards/blob/master/windows/de-br-layout.zip) und installieren Sie sie, indem Sie `setup.exe` ausführen. Diese Datei wurde mit dem [Microsoft Keyboard Layout Creator (MSKLC) Version 1.4](https://www.microsoft.com/en-us/download/details.aspx?id=102134) erstellt.
+Entpacken Sie einfach die Datei [`de-br-layout.zip`](https://github.com/jpkc/Portuguese-Keyboard-layout-for-German-Keyboards/raw/refs/heads/master/windows/de-br-layout.zip) und installieren Sie sie, indem Sie `setup.exe` ausführen. Diese Datei wurde mit dem [Microsoft Keyboard Layout Creator (MSKLC) Version 1.4](https://www.microsoft.com/en-us/download/details.aspx?id=102134) erstellt.
 
 ## linux-Benutzer
 1. Führen Sie einfach `install.sh` aus. Es kopiert die Dateien `symbols/de` und `rules/evdev.xml` in den Ordner `/usr/share/X11/xkb/`. Sie müssen es mit sudo ausführen oder über Administratorrechte verfügen.
